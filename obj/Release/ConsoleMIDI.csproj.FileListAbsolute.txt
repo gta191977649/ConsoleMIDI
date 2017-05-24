@@ -1,0 +1,7 @@
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\Release\ConsoleMIDI.exe.config
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\Release\ConsoleMIDI.exe
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\Release\ConsoleMIDI.pdb
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\Release\Bass.Net.dll
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\Release\Bass.Net.xml
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\obj\Release\ConsoleMIDI.exe
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\obj\Release\ConsoleMIDI.pdb

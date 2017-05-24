@@ -1,0 +1,3 @@
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\x86\Release\ConsoleMIDI.exe.config
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\obj\x86\Release\ConsoleMIDI.Properties.Resources.resources
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\obj\x86\Release\ConsoleMIDI.csproj.GenerateResource.Cache

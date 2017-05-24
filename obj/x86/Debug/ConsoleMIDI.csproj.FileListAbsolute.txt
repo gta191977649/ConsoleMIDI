@@ -1,0 +1,10 @@
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\x86\Debug\ConsoleMIDI.exe.config
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\x86\Debug\ConsoleMIDI.exe
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\x86\Debug\ConsoleMIDI.pdb
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\x86\Debug\Bass.Net.dll
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\bin\x86\Debug\Bass.Net.xml
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\obj\x86\Debug\ConsoleMIDI.exe
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\obj\x86\Debug\ConsoleMIDI.pdb
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\obj\x86\Debug\ConsoleMIDI.Properties.Resources.resources
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\obj\x86\Debug\ConsoleMIDI.csproj.GenerateResource.Cache
+D:\My Program\MIDI2Console\ConsoleMIDI\ConsoleMIDI\obj\x86\Debug\ConsoleMIDI.csprojResolveAssemblyReference.cache
